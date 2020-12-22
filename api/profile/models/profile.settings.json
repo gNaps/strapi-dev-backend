@@ -35,6 +35,21 @@
     "skills": {
       "collection": "tag",
       "via": "profile"
+    },
+    "bio": {
+      "type": "richtext"
+    },
+    "languages": {
+      "type": "text"
+    },
+    "preferred_salary": {
+      "type": "text"
+    },
+    "time_zone": {
+      "type": "text"
+    },
+    "title": {
+      "type": "text"
     }
   }
 }
