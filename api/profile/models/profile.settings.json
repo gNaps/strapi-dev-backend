@@ -30,7 +30,7 @@
     },
     "slug": {
       "type": "uid",
-      "targetField": "name"
+      "targetField": "title"
     },
     "skills": {
       "collection": "tag",
